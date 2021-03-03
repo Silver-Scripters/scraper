@@ -1,2 +1,2 @@
 # scraper
-scrapes data from basketball-reference for use in datasets
+scrapes NBA game data for use in datasets
