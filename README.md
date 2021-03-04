@@ -7,7 +7,7 @@ Repo for NBA game data webscrapers for use in training models.
 1. `lines-scraper.ipynb` scrapes theScore betting odds (spread, total, final points).
    See `lines.csv` for the output format as of 3/2/2021.
 
-2. ` ` scrapes basketball-reference for player stats and team stats
+2. ` ` scrapes thescore/basketball-reference for player stats and team stats
 
 ## How to run the scrapers
 
